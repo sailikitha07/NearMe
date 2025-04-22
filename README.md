@@ -24,8 +24,9 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
-##Map.html
+## CODE :
+## map.html
+
 ```
 <html>
     <head>
@@ -47,8 +48,10 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+
 ```
-##bng.html
+## bng.html
+
 ```
 <html>
     <head>
@@ -80,7 +83,8 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-##bnp.html
+## bnp.html
+
 ```
 <html>
     <head>
@@ -114,7 +118,7 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-##krm.html
+## krm.html
 ```
 <html>
     <head>
@@ -144,7 +148,7 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-##mrt.html
+## mrt.html
 ```
 <html>
     <head>
@@ -176,7 +180,7 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-##phn.html
+## phn.html
 ```
 <html>
     <head>
@@ -209,15 +213,21 @@ Execute the programs and publish them.
     </body>
 </html>
 ```
-##OUTPUT
-![Screenshot (2)](https://github.com/user-attachments/assets/33cb832c-3e21-4d4e-b724-144a02b8c42d)
-![Screenshot (5)](https://github.com/user-attachments/assets/f1e674ad-eab6-4d18-b7ba-6f0e4d59d269)
-![Screenshot (6)](https://github.com/user-attachments/assets/488e6f42-3f87-42da-b62a-6bef8803a6c4)
-![Screenshot (4)](https://github.com/user-attachments/assets/1f8f3cf8-646c-479d-b53e-d1bbf4f7926e)
-![Screenshot (3)](https://github.com/user-attachments/assets/7604788c-a3c0-4c68-9614-ed3666569907)
-![Screenshot 2025-04-22 221754](https://github.com/user-attachments/assets/4c6d6ee5-718d-437e-808a-bb2a560f2d5d)
+## OUTPUT
+![alt text](map.png)
+
+![alt text](bn.png)
+
+![alt text](bnp.png)
+
+![alt text](krm.png)
+
+![alt text](<mrt (2).png>)
+
+![alt text](phn.png)
 
 ## RESULT
+
 The program for implementing image maps using HTML is executed successfully.
 
 
