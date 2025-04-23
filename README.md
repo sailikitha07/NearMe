@@ -78,7 +78,7 @@ Execute the programs and publish them.
 
         </p>
         <center>
-            <img src="C:\Users\admin\Desktop\5.jpg" width="600" height="300">
+            <img src="C:\Users\admin\Desktop\map\4.jpg" width="600" height="300">
         </center>
     </body>
 </html>
@@ -92,12 +92,13 @@ Execute the programs and publish them.
             BANGLORE PALACE
         </title>
         <style>
-            h1{
-                font-size: xx-large;
-                color: #de1212;
-            }
             p{
-                font-size: medium;
+                font-size: xx-large;
+                color: black;
+                
+            }
+            body{
+                background-color:violet;
             }
             
         </style>
@@ -107,10 +108,13 @@ Execute the programs and publish them.
 
         </h1>
         <p>
-            The Bangalore Palace, a blend of Tudor and Scottish Gothic architecture, stands as a prominent landmark in Bengaluru, showcasing the city's 
-        historical grandeur. Built in 1873 by Rev. Garett and purchased by  the 23rd Maharaja of Mysore, Chamarajendra Wadiyar, the palace is 
-        a popular tourist attraction and venue for events. Its expansive grounds and well-maintained gardens attract visitors, offering a glimpse into the 
-        opulence of the Mysore royal family.
+            The Bangalore Palace, a blend of Tudor and Scottish Gothic architecture, 
+            stands as a prominent landmark in Bengaluru, showcasing the city's 
+            historical grandeur. Built in 1873 by Rev. Garett and purchased by  
+            the 23rd Maharaja of Mysore, Chamarajendra Wadiyar, the palace is 
+            a popular tourist attraction and venue for events. Its expansive 
+            grounds and well-maintained gardens attract visitors, offering a glimpse into the 
+            opulence of the Mysore royal family.
         </p>
         <center>
             <img src="C:\Users\admin\Desktop\5.jpg"
@@ -123,7 +127,7 @@ Execute the programs and publish them.
 <html>
     <head>
         <title>
-            PKORAMANGALA
+            KORAMANGALA
         </title>
         <style>
             p{
@@ -132,7 +136,7 @@ Execute the programs and publish them.
                 
             }
             body{
-                background-color:bisque;
+                background-color:palevioletred;
             }
         </style>
     </head>
@@ -162,7 +166,7 @@ Execute the programs and publish them.
                 
             }
             body{
-                background-color:bisque;
+                background-color:lightblue;
             }
         </style>
     </head>
@@ -188,12 +192,13 @@ Execute the programs and publish them.
            Phoenix Mall
         </title>
         <style>
-            h1{
+           p{
                 font-size: xx-large;
-                color: #de1212;
+                color: black;
+                
             }
-            p{
-                font-size: medium;
+            body{
+                background-color:darkgray;
             }
             
         </style>
@@ -203,8 +208,11 @@ Execute the programs and publish them.
 
         </h1>
         <p>
-            Phoenix Marketcity in Bangalore is a large shopping mall developed by The Phoenix Mills Co. Ltd.It's known for its extensive retail space, featuring numerous stores, a multiplex, and
-            a food court. The mall is a popular destination for both shopping and entertainment, often hosting events and concerts.
+            Phoenix Marketcity in Bangalore is a large shopping mall developed 
+            by The Phoenix Mills Co. Ltd.It's known for its extensive retail space,
+            featuring numerous stores, a multiplex, and a food court. The mall is 
+            a popular destination for both shopping and entertainment, often hosting 
+            events and concerts.
     
         </p>
         <center>
@@ -212,6 +220,7 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+
 ```
 ## OUTPUT
 ![alt text](map.png)
